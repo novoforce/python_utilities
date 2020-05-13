@@ -1,4 +1,5 @@
 #The python script for capturing the screenshot and the corresponding mouse pointer coordinates
+#This code can be functionalised and the no of lines can be decreased
 
 #Reference https://docs.microsoft.com/en-us/windows/win32/uxguide/inter-mouse
 import pyautogui, sys
